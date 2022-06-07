@@ -7,4 +7,4 @@ Aplikacja zawiera:
 
 Zdjęcie poglądowe aplikacji:
 
-![unknown](https://user-images.githubusercontent.com/80448930/172462197-f2348cb5-9163-4a9e-967c-73e500bba42d.png)
+![286006261_564415568414823_1063201370420073766_n](https://user-images.githubusercontent.com/80448930/172465173-9a5a5432-1cd6-4fec-a085-952c3b00d5f8.png)
